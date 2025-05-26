@@ -28,7 +28,6 @@ Une entreprise souhaite analyser la répartition des performances de ses employ�
 - Recommandations ciblées pour améliorer les performances globales ou réduire les écarts identifiés (formation, rééquilibrage des charges, etc.).
 
 ## Apercu du Dashboard
-
 ![Screenshot 2025-05-26 132349](https://github.com/user-attachments/assets/b5aad921-8ca3-4fbd-b022-cb4565ea9a02)
 
 
