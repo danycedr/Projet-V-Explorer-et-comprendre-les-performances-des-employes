@@ -26,3 +26,9 @@ Une entreprise souhaite analyser la répartition des performances de ses employ�
 - Détection précise des employés "outliers" (valeurs extrêmes) à l’aide de la méthode 1.5 * IQR.
 - Profilage des employés performants et sous-performants pour aider à la prise de décision.
 - Recommandations ciblées pour améliorer les performances globales ou réduire les écarts identifiés (formation, rééquilibrage des charges, etc.).
+
+## Apercu du Dashboard
+
+![Screenshot 2025-05-26 132349](https://github.com/user-attachments/assets/b5aad921-8ca3-4fbd-b022-cb4565ea9a02)
+
+
